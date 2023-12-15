@@ -1,7 +1,3 @@
 # Pokedex
 
-# Pokedex
-
-(Apologies for the late submission with the read me file.)
-
-My design choices for this Pokedex are revolved on two factors. I wanted to make the interface kid friendly and visually apealling to anyone at any age. I also wanted the design to be simple and straight forward for someone to navigate through all the different Pokemon that they have or haven't caught.
+I reviewed the course content and tried my best to make it look similar to the mockup that I made in XD. It was very hard to make the boxes for the pokemon and hopefully it will be easier once I do it in the next assignment. 

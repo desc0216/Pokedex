@@ -1,3 +1,9 @@
+@media only screen and (max-width: 600px) {
+    .btn {
+        width: 80%;
+    }
+}
+
 .btn {
     border: 2px solid blue;
     padding: 20px; /* Adjust padding as needed */
@@ -7,7 +13,10 @@
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+}
 
+.home {
+    background-image: url(images/Group\ 1.png);
 }
 
 .start {
@@ -30,4 +39,57 @@
     width: 800px;
     padding: 100px;
     float: auto;
+}
+
+.navbar {
+    background-color: rgb(227, 54, 54);
+    overflow: hidden;
+  }
+
+.search {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.navbtn {
+    float: left;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.homebtn {
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+
+.buttoncontainer {
+    padding: 100px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.pokemon-grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
 }
